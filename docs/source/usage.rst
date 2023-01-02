@@ -32,3 +32,6 @@ For example:
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
+- [ ] (for unchecked checkbox)
+- [x] (for checked checkbox)
+
